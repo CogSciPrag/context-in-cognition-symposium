@@ -4,6 +4,10 @@ title: Participate
 permalink: /participate/
 ---
 
-More information on registration will soon be available here! 
+Participation in the Symposium is free and open to postgraduate students from Cognitive Science and adjacent fields. It will take place in Tübingen. Participants will have the ability to present their work with a poster and/or flash talk.
 
-There will be a link to the [registration form](https://jekyllrb.com/).
+Please make sure to register by February 28th, 2025.
+
+More information will soon be available here! 
+
+Here is a link to the [registration form](https://forms.gle/M4Lu7BU6csBKUhTn7).
