@@ -5,6 +5,10 @@ layout: home
 menu: main
 ---
 
+<div align="center">
+    <img src="assets/img/tuebingen.png"/>
+</div>
+
 Welcome to the Cognitive Science doctoral symposium 2025 on the topic **"Understanding context in cognition"**!
 
 We cordially invite PhD students to participate in the Cognitive Science PhD-Symposium on the topic “Understanding Context in Cognition”, a 2.5-day event taking place on April 7–9, 2025, at the University of Tübingen. The symposium hopes to bring together Cognitive Science PhD students from across Germany to delve into the interdisciplinary topic of context, connecting research across domains including event cognition, Artificial Intelligence, linguistics, cognitive modeling, psychology, and education.
