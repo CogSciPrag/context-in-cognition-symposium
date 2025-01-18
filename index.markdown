@@ -6,8 +6,9 @@ menu: main
 ---
 
 <div align="center">
-    <img src="assets/img/tuebingen.png"/>
+    <img src="assets/img/tuebingen.png" width="100%">
 </div>
+<br />
 
 Welcome to the Cognitive Science doctoral symposium 2025 on the topic **"Understanding context in cognition"**!
 
