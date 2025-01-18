@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Doctoral symposum - Context in Cognition
+title: Doctoral symposium - Context in Cognition
 email: polina.tsvilodub@uni-tuebingen.de
 description: >- # this means to ignore newlines until "baseurl:"
   Website for CogSci PhD symposium in Tübingen in 2025 on the topic "Understanding context in cognition", funded by the German Cognitive Science society
