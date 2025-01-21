@@ -10,4 +10,4 @@ Please make sure to register by February 28th, 2025.
 
 More information will soon be available here! 
 
-Here is a link to the [registration form](https://forms.gle/M4Lu7BU6csBKUhTn7).
+Please go to [this form](https://forms.gle/M4Lu7BU6csBKUhTn7) to register!

@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-Stay tuned for more information on the planned schedule!
+Please find the tentative schedule below!
 
 <div align="center">
     <img src="../assets/img/Test-Schedule.png">
