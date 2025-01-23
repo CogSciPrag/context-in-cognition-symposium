@@ -16,4 +16,4 @@ We cordially invite graduate students in Cognitive Science and related disciplin
 
 PhD students will have opportunities to share their research through presentations, engage in discussions and networking with both peers and leading senior researchers in the field. Featuring invited keynote talks, hands-on workshops on computational cognitive modeling, large language models (LLMs), neurophysiological methods, and grant proposal writing, the symposium will provide opportunities to both strengthen methodological skills, and engage with leading research in the field.
 
-Don't miss this opportunity to engage in collaborative tasks, exchange ideas, and connect with peers to shape the future of Cognitive Science in Germany! [Abstract submission and registration]({{ site.baseurl }}{% link 00_participate.markdown %}) information will be available soon.
+Don't miss this opportunity to engage in collaborative tasks, exchange ideas, and connect with peers to shape the future of Cognitive Science in Germany! Please go to [this page for abstract submission and registration!]({{ site.baseurl }}{% link 00_participate.markdown %})
