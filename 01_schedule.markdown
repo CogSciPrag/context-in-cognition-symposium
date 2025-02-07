@@ -6,14 +6,14 @@ permalink: /schedule/
 
 Please find the tentative schedule below!
 
-The following speakers have agreed to present their expertise in keynotes and workshops: 
+The following speakers will share their expertise in keynotes and workshops: 
 
 * Prof. Dr. Martin Butz
 * Dr. Asya Achimova
 * Dr. Marcel Binz
 * Dr. Sarah Schwöbel
 
-Stay tuned for more exciting presenters!
+Stay tuned for more exciting speakers!
 
 <div align="center">
     <img src="../assets/img/Test-Schedule.png">
