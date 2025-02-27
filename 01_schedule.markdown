@@ -12,6 +12,7 @@ The following speakers will share their expertise in keynotes and workshops:
 * Dr. Asya Achimova
 * Dr. Marcel Binz
 * Dr. Sarah Schwöbel
+* Prof. Dr. Tanya Marie Luhrmann
 
 Stay tuned for more exciting speakers!
 
