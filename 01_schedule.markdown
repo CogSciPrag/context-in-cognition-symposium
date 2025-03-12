@@ -8,11 +8,11 @@ Please find the tentative schedule below!
 
 The following speakers will share their expertise in keynotes and workshops: 
 
-* Prof. Dr. Martin Butz
-* Dr. Asya Achimova
-* Dr. Marcel Binz
-* Dr. Sarah Schwöbel
-* Prof. Dr. Tanya Marie Luhrmann
+* Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (kenynote)
+* Dr. Asya Achimova, University of Tübingen: TBA (workshop)
+* Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: "How context influences prediction" (workshop)
+* Dr. Sarah Schwöbel, TU Dresden : TBA (workshop)
+* Prof. Dr. Tanya Marie Luhrmann, Stanford University: TBA (keynote)
 
 Stay tuned for more exciting speakers!
 
@@ -48,3 +48,13 @@ question in the field. Again, creativity is welcome and encouraged.
 - Naturally, you do not need to actually implement your project proposal after the symposium, although it would be fantastic if you did. This is intended as an opportunity to connect with potential collaborators, discover new approaches and gain inspiration for future work. We hope you keep this in mind while making your choice.
 
 - Prizes will be awarded for the best project at the end of the symposium!
+
+## Preliminary talk titles & abstracts
+
+### Prof. Dr. Martin Butz: "How do we actively contextualize our behaviour?"
+
+Our environment surrounds us with distinct interaction options and forces. It offers external, local context, which naturally constrains our behaviour – and thus also our sensorimotor experiences. The spatiotemporal structure yields localities - such as punctual, non-linear force changes – which are segmented by our brains into events and episodes embedded into the surrounding context. Nonetheless, even if constrained by the local environmental context, in principle there are myriads of interaction options at any point in time. To copy with this complexity, our brain has evolved fascinating computational structures and algorithms. In this talk I will elaborate how our brain selectively infers abstract contexts, and contextual schemata, in a task-oriented manner in order to generate adaptive behaviour fast and energy efficiently. I will first give inspiration of the general principle and then elaborate on key ingredients – including computational modules and neural algorithms – that appear to be at play. In conclusion, I point out what appears missing in large language models and how this lack may be abolished over the next years.
+
+### Dr. Marcel Binz: "How context influences prediction"
+
+TBD.
