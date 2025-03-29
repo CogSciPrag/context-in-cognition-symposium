@@ -17,7 +17,7 @@ The following speakers will share their expertise in keynotes and workshops:
 Stay tuned for more exciting speakers!
 
 <div align="center">
-    <img src="../assets/img/Test-Schedule.png">
+    <img src="../assets/img/Schedule-final.png">
 </div>
 
 ### About the PhD Research talks:
