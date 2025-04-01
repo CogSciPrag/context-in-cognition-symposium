@@ -8,7 +8,7 @@ Please find the tentative schedule below!
 
 The following speakers will share their expertise in keynotes and workshops: 
 
-* Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (kenynote)
+* Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (keynote)
 * Dr. Asya Achimova, University of Tübingen: ["Applying for third-party funding"](#dr-asya-achimova-applying-for-third-party-funding) (workshop)
 * Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: ["How context influences prediction"](#dr-marcel-binz-how-context-influences-prediction) (workshop)
 * Dr. Sarah Schwöbel, TU Dresden: ["Contextual inference in Bayesian cognitive modeling"](#dr-sarah-schwöbel-contextual-inference-in-bayesian-cognitive-modeling) (workshop)

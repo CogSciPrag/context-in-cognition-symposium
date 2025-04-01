@@ -34,6 +34,8 @@ plugins:
 head_pages:
   - 00_participate.md
   - 01_schedule.md
+  - 02_location.md
+  - 03_logistics.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
