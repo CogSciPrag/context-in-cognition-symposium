@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contribution logistics 
+title: Contributions 
 permalink: /logistics/
 ---
 
