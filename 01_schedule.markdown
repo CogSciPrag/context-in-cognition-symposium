@@ -9,12 +9,10 @@ Please find the tentative schedule below!
 The following speakers will share their expertise in keynotes and workshops: 
 
 * Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (kenynote)
-* Dr. Asya Achimova, University of Tübingen: TBA (workshop)
-* Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: "How context influences prediction" (workshop)
-* Dr. Sarah Schwöbel, TU Dresden : TBA (workshop)
-* Prof. Dr. Tanya Marie Luhrmann, Stanford University: TBA (keynote)
-
-Stay tuned for more exciting speakers!
+* Dr. Asya Achimova, University of Tübingen: ["Applying for third-party funding"](#dr-asya-achimova-applying-for-third-party-funding) (workshop)
+* Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: ["How context influences prediction"](#dr-marcel-binz-how-context-influences-prediction) (workshop)
+* Dr. Sarah Schwöbel, TU Dresden: ["Contextual inference in Bayesian cognitive modeling"](#dr-sarah-schwöbel-contextual-inference-in-bayesian-cognitive-modeling) (workshop)
+* Prof. Dr. Tanya Marie Luhrmann, Stanford University: ["Voices"](#prof-dr-tanya-marie-luhrmann-voices) (keynote)
 
 <div align="center">
     <img src="../assets/img/Schedule-final.png">
@@ -58,3 +56,15 @@ Our environment surrounds us with distinct interaction options and forces. It of
 ### Dr. Marcel Binz: "How context influences prediction"
 
 TBD.
+
+### Prof. Dr. Tanya Marie Luhrmann: "Voices"
+
+Voices (auditory hallucinations) are experiences in which someone has a thought that they feel is not their own. This work draws on data from extensive fieldwork and from hundreds of interviews conducted across multiple countries to examine the prevalence and variability of these experiences. I will discuss what we know about the difference between the voices found in psychosis and in the general population, and the evidence that three factors (porosity, absorption and training) facilitate voices in the general population. Most fundamentally, I will argue that voices teach us something about consciousness more generally: that we have contradictory intuitions about our own thoughts which are elaborated or ignored by local culture, and that these intuitions facilitate this felt disavowal of thought.
+
+### Dr. Sarah Schwöbel: "Contextual inference in Bayesian cognitive modeling"
+
+How do we know what context we are currently in? And how does the context shape our decision making? This workshop attempts to give a precise computational answer to these questions by formalizing context in a Bayesian cognitive model. You will play around with an interactive notebook that illustrates these concepts without much required knowledge in modeling or coding.
+
+### Dr. Asya Achimova: "Applying for third-party funding"
+
+It is never too early to start thinking about your next (or first) grant application. In this workshop, we will sketch out the stages of applying for third-party funding. They include: finding an appropriate funding schema and checking eligibility conditions, brainstorming and ideation, developing your proposal, getting feedback, and revising your application. We will see what information is available at the University of Tübingen and websites of granting agencies and where you can seek support in your grant-writing process. The workshop features a combination of instructor’s input and hands-on writing exercises to get the process started.
