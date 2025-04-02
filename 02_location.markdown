@@ -22,9 +22,5 @@ The keynotes, the workshops and the contributed talks will take place in room 00
 #### 🚶 On Foot  
 Prefer a stroll? Walk through the beautiful old town and reach the venue in around 20–25 minutes.
 
----
-
-## 🗺️ Walking Route Map
-
-![Walking route from Tübingen Main Station to the venue](assets/map-walk.png)  
+![Walking route from Tübingen Main Station to the venue](/assets/img/path-walk.png)  
 *Walking route from Tübingen Main Station to Keplerstraße 2*
