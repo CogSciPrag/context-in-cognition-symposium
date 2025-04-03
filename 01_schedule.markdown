@@ -55,7 +55,7 @@ Our environment surrounds us with distinct interaction options and forces. It of
 
 ### Dr. Marcel Binz: "How context influences prediction"
 
-TBD.
+In this workshop, we will investigate how context influences the predictions of large language models (LLMs). For this, we will use the prediction of movie ratings given by users as an example. We will cover how to use open-source LLMs for this kind of analysis, experiment with different types of contextual information, do a little bit of statistical analysis, and brainstorm whether this approach could be used to identify user preferences. It is recommended that attendees have a Google account to access the free GPUs on Google Colab for a part of this workshop.
 
 ### Prof. Dr. Tanya Marie Luhrmann: "Voices"
 
