@@ -8,6 +8,19 @@ The symposium will take place at the building at [Keplerstrasse 2](https://maps.
 
 The keynotes, the workshops and the contributed talks will take place in room 001. The poster sessions will take place in rooms 003 and 004. The coffee breaks will be provided in room 002.
 
-## How to get there
+## 🚉 How to Get There
 
-TBD.
+### From Tübingen Main Train Station
+
+#### 🚌 By Public Transport
+- Take **Bus 5** (direction WHO) or **Bus 13** (direction Sand)
+- Get off at **Keplerstraße** or **Uni/Neue Aula**
+- Walk 1–3 minutes to the venue  
+🕐 **Total travel time:** ~10 minutes  
+🎫 **Ticket:** Standard city fare (can use contactless card or buy a 4-time pass at the station)
+
+#### 🚶 On Foot  
+Prefer a stroll? Walk through the beautiful old town and reach the venue in around 20–25 minutes.
+
+![Walking route from Tübingen Main Station to the venue](/assets/img/map-walk.png)  
+*Walking route from Tübingen Main Station to Keplerstraße 2*
