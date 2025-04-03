@@ -23,5 +23,5 @@ The posters should be A0, in portrait format. The dedicated poster session will 
 Don't hesitate to reach out to us if you have any questions!
 
 <div align="center">
-    <img src="../assets/img/phd-posters-schedule.pdf">
+    <object data="../assets/img/phd-posters-schedule.pdf" width="500" height="1000" type="application/pdf"></object>
 </div>
