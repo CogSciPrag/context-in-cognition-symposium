@@ -4,26 +4,28 @@ title: Schedule
 permalink: /schedule/
 ---
 
-Please find the tentative schedule below!
-
-The following speakers will share their expertise in keynotes and workshops: 
-
-* Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (keynote)
-* Dr. Asya Achimova, University of Tübingen: ["Applying for third-party funding"](#dr-asya-achimova-applying-for-third-party-funding) (workshop)
-* Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: ["How context influences prediction"](#dr-marcel-binz-how-context-influences-prediction) (workshop)
-* Dr. Sarah Schwöbel, TU Dresden: ["Contextual inference in Bayesian cognitive modeling"](#dr-sarah-schwöbel-contextual-inference-in-bayesian-cognitive-modeling) (workshop)
-* Prof. Dr. Tanya Marie Luhrmann, Stanford University: ["Voices"](#prof-dr-tanya-marie-luhrmann-voices) (keynote)
+The detailed schedule and abstracts of the PhD talks can be found [here]({{ site.baseurl }}{% link 03_logistics.markdown %}#talks).
+The detailed list of posters can be found [here]({{ site.baseurl }}{% link 03_logistics.markdown %}#posters). 
 
 <div align="center">
     <img src="../assets/img/Schedule-final.png">
 </div>
+
+The following speakers will share their expertise in keynotes and workshops: 
+
+* Prof. Dr. Martin Butz, University of Tübingen: ["How do we actively contextualize our behaviour?"](#prof-dr-martin-butz-how-do-we-actively-contextualize-our-behaviour) (keynote)
+* Dr. Sarah Schwöbel, TU Dresden: ["Contextual inference in Bayesian cognitive modeling"](#dr-sarah-schwöbel-contextual-inference-in-bayesian-cognitive-modeling) (workshop)
+* Dr. Marcel Binz, Institute for Human-Centered AI at Helmholtz Munich: ["How context influences prediction"](#dr-marcel-binz-how-context-influences-prediction) (workshop)
+* Prof. Dr. Tanya Marie Luhrmann, Stanford University: ["Voices"](#prof-dr-tanya-marie-luhrmann-voices) (keynote)
+* Dr. Asya Achimova, University of Tübingen: ["Applying for third-party funding"](#dr-asya-achimova-applying-for-third-party-funding) (workshop)
+  
 
 ### About the PhD Research talks:
 
 Participants may give a short talk, present a poster, or both; please indicate this in the registration form. Talks are planned for ten-minute slots with five minutes for questions. The talks are an opportunity to present an overview of your research and discuss it with your fellows. They will be assigned to a timeslot on one of the three days of the symposium.
 
 
-### About the Project Challenge (Hackathon):
+### About the Project Challenge:
 
 Context is a term of emerging importance with many interpretations and potential applications across cognitive science. Many facets of how context affects or springs from our cognition and may be integrated into (neural network or AI) models still remain to be investigated.
 
@@ -47,7 +49,7 @@ question in the field. Again, creativity is welcome and encouraged.
 
 - Prizes will be awarded for the best project at the end of the symposium!
 
-## Preliminary talk titles & abstracts
+## Invited talks & workshops: Titles & abstracts
 
 ### Prof. Dr. Martin Butz: "How do we actively contextualize our behaviour?"
 
