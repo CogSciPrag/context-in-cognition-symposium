@@ -13,7 +13,7 @@ The talks will take place on Tuesday, April 8th (09:00-11:00), Wednesday April 9
 We will share the schedule of the talks shortly, so please stay tuned!
 
 <div align="center">
-    <img src="../assets/img/phd-talk-schedule.png">
+    <object data="../assets/img/phd-talk-schedule.pdf" width="800" height="1000" type="application/pdf"></object>
 </div>
 
 ### Posters
@@ -23,5 +23,5 @@ The posters should be A0, in portrait format. The dedicated poster session will 
 Don't hesitate to reach out to us if you have any questions!
 
 <div align="center">
-    <object data="../assets/img/phd-posters-schedule.pdf" width="500" height="1000" type="application/pdf"></object>
+    <object data="../assets/img/phd-posters-schedule.pdf" width="800" height="1000" type="application/pdf"></object>
 </div>
