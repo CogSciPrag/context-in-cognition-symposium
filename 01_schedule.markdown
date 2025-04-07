@@ -73,7 +73,7 @@ Voices (auditory hallucinations) are experiences in which someone has a thought 
 
 How do we know what context we are currently in? And how does the context shape our decision making? This workshop attempts to give a precise computational answer to these questions by formalizing context in a Bayesian cognitive model. You will play around with an interactive notebook that illustrates these concepts without much required knowledge in modeling or coding.
 
-Links to the notebooks: [notebook 1a](tinyurl.com/contextnotebook1a), [notebook 1b](tinyurl.com/contextnotebook1b), [notebook 2a](tinyurl.com/contextnotebook2a) and [notebook 2b](tinyurl.com/contextnotebook2b). 
+Links to the notebooks: [notebook 1a](https://www.tinyurl.com/contextnotebook1a), [notebook 1b](https://www.tinyurl.com/contextnotebook1b), [notebook 2a](https://www.tinyurl.com/contextnotebook2a) and [notebook 2b](https://www.tinyurl.com/contextnotebook2b). 
 
 ### Dr. Asya Achimova: "Applying for third-party funding"
 
