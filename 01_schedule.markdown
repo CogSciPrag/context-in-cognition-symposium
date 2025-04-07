@@ -49,6 +49,11 @@ question in the field. Again, creativity is welcome and encouraged.
 
 - Prizes will be awarded for the best project at the end of the symposium!
 
+**Group assignment**:
+<div align="center">
+    <img src="../assets/img/Group_assignment.png">
+</div>
+
 ## Invited talks & workshops: Titles & abstracts
 
 ### Prof. Dr. Martin Butz: "How do we actively contextualize our behaviour?"
