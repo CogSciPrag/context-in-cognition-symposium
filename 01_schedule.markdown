@@ -51,8 +51,9 @@ question in the field. Again, creativity is welcome and encouraged.
 
 **Group assignment**:
 <div align="center">
-    <img src="../assets/img/Group_assignment.png">
+    <img src="../assets/img/group_assignment.png">
 </div>
+
 
 ## Invited talks & workshops: Titles & abstracts
 
