@@ -8,6 +8,10 @@ The symposium will take place at the building at [Keplerstrasse 2](https://maps.
 
 The keynotes, the workshops and the contributed talks will take place in room 001. The poster sessions will take place in rooms 003 and 004. The coffee breaks will be provided in room 002.
 
+**WiFi**: you can either use eudroam, or the "Guest" network (usrname: nnsptg01, pw: bh5bh7).
+
+**Lunch**: the menu of the mensa which we suggest for lunch can be found [here](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/). 
+
 ## 🚉 How to Get There
 
 ### From Tübingen Main Train Station
