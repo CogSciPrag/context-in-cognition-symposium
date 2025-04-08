@@ -50,8 +50,11 @@ question in the field. Again, creativity is welcome and encouraged.
 - Prizes will be awarded for the best project at the end of the symposium!
 
 **Group assignment**:
+
+Note: Due to some participants unfortunately dropping out the group assignment has been reshuffled. Groups have been combined and renamed.
+
 <div align="center">
-    <img src="../assets/img/group_assignment.png">
+    <img src="../assets/img/group_assignment_new.png">
 </div>
 
 
