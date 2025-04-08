@@ -68,6 +68,8 @@ Our environment surrounds us with distinct interaction options and forces. It of
 
 In this workshop, we will investigate how context influences the predictions of large language models (LLMs). For this, we will use the prediction of movie ratings given by users as an example. We will cover how to use open-source LLMs for this kind of analysis, experiment with different types of contextual information, do a little bit of statistical analysis, and brainstorm whether this approach could be used to identify user preferences. It is recommended that attendees have a Google account to access the free GPUs on Google Colab for a part of this workshop.
 
+Link to the workshop materials: [here](https://github.com/marcelbinz/llm_context_workshop)
+
 ### Prof. Dr. Tanya Marie Luhrmann: "Voices"
 
 Voices (auditory hallucinations) are experiences in which someone has a thought that they feel is not their own. This work draws on data from extensive fieldwork and from hundreds of interviews conducted across multiple countries to examine the prevalence and variability of these experiences. I will discuss what we know about the difference between the voices found in psychosis and in the general population, and the evidence that three factors (porosity, absorption and training) facilitate voices in the general population. Most fundamentally, I will argue that voices teach us something about consciousness more generally: that we have contradictory intuitions about our own thoughts which are elaborated or ignored by local culture, and that these intuitions facilitate this felt disavowal of thought.
