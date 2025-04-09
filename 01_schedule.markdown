@@ -83,3 +83,5 @@ Links to the notebooks: [notebook 1a](https://www.tinyurl.com/contextnotebook1a)
 ### Dr. Asya Achimova: "Applying for third-party funding"
 
 It is never too early to start thinking about your next (or first) grant application. In this workshop, we will sketch out the stages of applying for third-party funding. They include: finding an appropriate funding schema and checking eligibility conditions, brainstorming and ideation, developing your proposal, getting feedback, and revising your application. We will see what information is available at the University of Tübingen and websites of granting agencies and where you can seek support in your grant-writing process. The workshop features a combination of instructor’s input and hands-on writing exercises to get the process started.
+
+Link to materials: [here](https://miro.com/app/board/uXjVIFWaKO8=/?share_link_id=624968109250)
