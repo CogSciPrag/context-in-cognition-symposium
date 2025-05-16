@@ -64,6 +64,8 @@ Note: Due to some participants unfortunately dropping out the group assignment h
 
 Our environment surrounds us with distinct interaction options and forces. It offers external, local context, which naturally constrains our behaviour – and thus also our sensorimotor experiences. The spatiotemporal structure yields localities - such as punctual, non-linear force changes – which are segmented by our brains into events and episodes embedded into the surrounding context. Nonetheless, even if constrained by the local environmental context, in principle there are myriads of interaction options at any point in time. To copy with this complexity, our brain has evolved fascinating computational structures and algorithms. In this talk I will elaborate how our brain selectively infers abstract contexts, and contextual schemata, in a task-oriented manner in order to generate adaptive behaviour fast and energy efficiently. I will first give inspiration of the general principle and then elaborate on key ingredients – including computational modules and neural algorithms – that appear to be at play. In conclusion, I point out what appears missing in large language models and how this lack may be abolished over the next years.
 
+Link to talk recording: [here](https://youtu.be/3_9RtdQLcrA?si=gASzv-QjkHkEGf1S)
+
 ### Dr. Marcel Binz: "How context influences prediction"
 
 In this workshop, we will investigate how context influences the predictions of large language models (LLMs). For this, we will use the prediction of movie ratings given by users as an example. We will cover how to use open-source LLMs for this kind of analysis, experiment with different types of contextual information, do a little bit of statistical analysis, and brainstorm whether this approach could be used to identify user preferences. It is recommended that attendees have a Google account to access the free GPUs on Google Colab for a part of this workshop.
@@ -73,6 +75,8 @@ Link to the workshop materials: [here](https://github.com/marcelbinz/llm_context
 ### Prof. Dr. Tanya Marie Luhrmann: "Voices"
 
 Voices (auditory hallucinations) are experiences in which someone has a thought that they feel is not their own. This work draws on data from extensive fieldwork and from hundreds of interviews conducted across multiple countries to examine the prevalence and variability of these experiences. I will discuss what we know about the difference between the voices found in psychosis and in the general population, and the evidence that three factors (porosity, absorption and training) facilitate voices in the general population. Most fundamentally, I will argue that voices teach us something about consciousness more generally: that we have contradictory intuitions about our own thoughts which are elaborated or ignored by local culture, and that these intuitions facilitate this felt disavowal of thought.
+
+Link to talk recording: [here](https://youtu.be/nRobki4KwCw?si=YgIqsPJFaLpJG-O-)
 
 ### Dr. Sarah Schwöbel: "Contextual inference in Bayesian cognitive modeling"
 

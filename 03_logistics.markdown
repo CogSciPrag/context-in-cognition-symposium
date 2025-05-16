@@ -16,6 +16,17 @@ We will share the schedule of the talks shortly, so please stay tuned!
     <object data="../assets/img/phd-talk-schedule.pdf" width="800" height="1000" type="application/pdf"></object>
 </div>
 
+#### Recordings
+
+* [Max Mittenbühler](https://youtu.be/wo4M_JLDx8w?si=lVw_dczs-zJw3N85)
+
+#### Slides
+
+* The slides by Caroline Stankozi can be found [here](https://github.com/CogSciPrag/context-in-cognition-symposium/tree/gh-pages/assets/slides/Caroline-Stankozi-Context-Presentation.pptx).
+* The slides by Chang Liu can be found [here](https://github.com/CogSciPrag/context-in-cognition-symposium/tree/gh-pages/assets/slides/Chang-Liu-Presentation-Context-in-Cognition.pdf).
+* The slides by Wenjia Xu can be found [here](https://github.com/CogSciPrag/context-in-cognition-symposium/tree/gh-pages/assets/slides/Xu-Wenjia-2025-symposium-
+* presentation.pptx).
+
 ### Posters
 
 The posters should be A0, in portrait format. The dedicated poster session will take place on Tuesday, April 8th (11:30-12:30), in rooms 003 -- 004. However, there is a possibility to put up the posters throughout the entire event, so we encourage you to put up the poster as soon as you want.
